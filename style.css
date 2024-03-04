@@ -240,23 +240,57 @@ nav{
 .customer-img{
     width: 200px;
     height: 200px;
-    border-radius: 100%;
-    background-size: cover;
+    /* border-radius: 100%; */
+    background-size:cover;
     background-position: center;
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
 }
 
 .img-one{
-    background: url(images/yogendra-singh-uWs_N5Dlyiw-unsplash.jpgss);
+    background: url(images/yogendra-singh-uWs_N5Dlyiw-unsplash.jpg);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+   /*  max-width: 60rem; */
+    border-radius: 50px;
+    width: 200px;
+    height: 250px;
+    margin-left: 10px;
+    background-size: cover;
+    
 }
 
 .img-two{
     background: url(images/joshua-rondeau-xazIYnxpS2Q-unsplash.jpg);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+ /*    max-width: 60rem; */
+    border-radius: 50px;
+    width: 200px;
+    height: 250px;
+    margin-left: 10px;
+    background-size: cover;
 }
 
 .img-three{
     background: url(images/milan-popovic-kOnmHdLJTNI-unsplash.jpg);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+ /*    max-width: 60rem; */
+    border-radius: 50px;
+    width: 200px;
+    height: 250px;
+    margin-left: 10px;
+    background-size: cover;
 }
 
 /* customer review end */
