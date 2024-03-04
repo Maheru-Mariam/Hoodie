@@ -303,7 +303,7 @@ footer{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 100vh;
+    height: 60vh;
     font-family: var(--primary-font);
 }
 
